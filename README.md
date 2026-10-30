@@ -52,7 +52,7 @@ Areas of development include:
 - Odometry and ROS 2 integration.
 - Simulation and controller testing.
 
-🔗 **[View the repository](https://github.com/Thusitha-Madushanaka/custom-ros2-controller)**
+🔗 **[View the repository](https://github.com/Thusitha-Madushanaka/ciima_project.git)**
 
 ### 2. Configurable Robot Trajectory Planning
 
